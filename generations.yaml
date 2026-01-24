@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_GLC"
+
+generations:
+  - name: "First generation"
+    start_year: 2015
+    end_year: 2022
+    description: "The first-generation GLC (X253/C253) replaced the GLK-Class. It introduced the GLC Coupé variant with a sloping roof design. Available in both SUV and Coupé body styles across multiple markets with various petrol diesel and hybrid powertrains."
+  - name: "Second generation"
+    start_year: 2022
+    end_year: null
+    description: "The second-generation GLC (X254/C254) was unveiled in June 2022 with modernized styling and expanded electrified options. Features include four-cylinder engines with mild hybrid technology as standard, three plug-in hybrid variants, and is produced in Germany, China, Thailand, Indonesia and Malaysia."
