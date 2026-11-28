@@ -1,0 +1,56 @@
+command_id: DB33.0104
+test_cases:
+- expected_values:
+    LOAD_PCT: 7.45098
+  response: |-
+    18DAF15803410412
+    18DAF15903410413
+    18DAF15A03410413
+- expected_values:
+    LOAD_PCT: 14.90196
+  response: |-
+    18DAF15803410418
+    18DAF15903410426
+    18DAF15A03410426
+- expected_values:
+    LOAD_PCT: 18.43137
+  response: |-
+    18DAF1580341042D
+    18DAF1590341042E
+    18DAF15A0341042F
+- expected_values:
+    LOAD_PCT: 18.82353
+  response: |-
+    18DAF1580341042F
+    18DAF15903410430
+    18DAF15A03410430
+- expected_values:
+    LOAD_PCT: 36.86275
+  response: |-
+    18DAF1580341045D
+    18DAF1590341045D
+    18DAF15A0341045E
+- expected_values:
+    LOAD_PCT: 54.90196
+  response: |-
+    18DAF1580341048B
+    18DAF1590341048C
+    18DAF15A0341048C
+- expected_values:
+    LOAD_PCT: 63.13725
+  response: |-
+    18DAF1580341049B
+    18DAF159034104A1
+    18DAF15A034104A1
+- expected_values:
+    LOAD_PCT: 19.60784
+  response: |-
+    18DAF15A03410432
+    18DAF15803410432
+    18DAF15903410432
+- expected_values:
+    LOAD_PCT: 21.17647
+  response: |-
+    18DAF15A03410436
+    18DAF1580341044B
+    18DAF15903410436
